@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Aiman Zahid
 
-<!--
-**Aiman-zahid/Aiman-zahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Software Engineering student with a strong interest in technology and innovation.
 
-Here are some ideas to get you started:
+💻 I enjoy working on programming projects and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I am particularly interested in Artificial Intelligence (AI) and exploring how intelligent systems can solve real-world problems.
+
+🚀 I am currently working on different academic and personal projects to enhance my practical experience.
+
+📚 Always eager to learn new technologies and grow as a developer.
+
+---
+
+✨ Skills & Interests:
+- Programming
+- Artificial Intelligence (AI)
+- Problem Solving
+
+---
+
+📫 Feel free to explore my repositories and connect with me!
